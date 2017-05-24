@@ -1,5 +1,5 @@
-# Generate Bitcoin Addresses (NodeJS)
-Just a project more for myself to refer back to when working on future Bitcoin projects. Generates BTC addresses.
+# Generate Bitcoin Addresses w/ QR Codes (NodeJS)
+Just a project more for myself to refer back to when working on future Bitcoin projects. Generates BTC addresses and their corresponding QR Codes.
 
 # Setup
 *To Run:*
